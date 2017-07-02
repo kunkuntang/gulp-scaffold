@@ -1,0 +1,25 @@
+{
+  "name": "gulp-scaffold",
+  "version": "1.0.0",
+  "description": "a scaffold of gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunkuntang/gulp-scaffold.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "kuntang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunkuntang/gulp-scaffold/issues"
+  },
+  "homepage": "https://github.com/kunkuntang/gulp-scaffold#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
